@@ -7,4 +7,4 @@ t.me/booking221bot.
 * Also Ask user whether they have fever or any other symptoms
 * A feedback form is added so that user can share its experience with bot
 * # Images 
-* ![](Img/pic1.jpg)
+* ![](Img/pic1.JPG)
